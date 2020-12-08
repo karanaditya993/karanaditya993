@@ -1,11 +1,11 @@
 ### Hi there, I'm Karan 👋🏽
 
-🤓 Software Engineer at [@Teachable](https://github.com/UseFedora) <br>
-👨🏽‍🏫 Web Development Instructor at [@Fullstack Academy](https://github.com/fullstackacademy) <br>
-🗽 Based in NYC <br>
-🎓 University of Wisconsin-Madison
+🤓 Engineer at [@Teachable](https://github.com/UseFedora) <br>
+👨🏽‍🏫 Instructor at [@Fullstack Academy](https://github.com/fullstackacademy) <br>
+🗽 Resident of NYC <br>
+🎓 Graduate of [UW-Madison](https://www.wisc.edu/)
 
 ### How to reach me 🌎
 
-🚀 [Site](https://karanaditya.com) <br>
 🔗 [LinkedIn](https://linkedin.com/in/karanaditya993) <br>
+🚀 [Site](https://karanaditya.com) <br>
