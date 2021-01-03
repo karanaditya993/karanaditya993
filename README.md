@@ -1,9 +1,9 @@
 ### Hi there, I'm Karan 👋🏽
 
-🤓        Engineer at [@Teachable](https://github.com/UseFedora) <br>
-👨🏽‍🏫     Instructor at [@Fullstack Academy](https://github.com/fullstackacademy) <br>
-🗽        Resident of NYC <br>
-🎓        Graduate of [UW-Madison](https://www.wisc.edu/)
+🤓        Engineer [@Teachable](https://www.teachable.com) <br>
+👨🏽‍🏫     Instructor [@Fullstack Academy](https://www.fullstackacademy.com) <br>
+🗽        NYC <br>
+🎓        [University of Wisconsin - Madison](https://www.wisc.edu/)
 
 ### How to reach me 🌎
 
