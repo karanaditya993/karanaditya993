@@ -1,6 +1,6 @@
 ### Hi there, I'm Karan 👋🏽
 
-🤓        Engineer [@Teachable](https://www.teachable.com) <br>
+🤓        Engineer [@Stride Therapy](https://www.stridethera.com) <br>
 👨🏽‍🏫     Instructor [@Fullstack Academy](https://www.fullstackacademy.com) <br>
 🗽        NYC <br>
 🎓        [University of Wisconsin - Madison](https://www.wisc.edu/)
