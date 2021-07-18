@@ -1,14 +1,12 @@
 ### Hi there, I'm Karan 👋🏽
 
-🤓        Engineer <br>
-👨🏽‍🏫     Instructor [@Fullstack Academy](https://www.fullstackacademy.com) <br>
+🧑🏽‍💻        Developer 🤓 Engineer 📚 Instructor <br>
 🗽        NYC <br>
-🎓        [University of Wisconsin - Madison](https://www.wisc.edu/)
+🎓        University of Wisconsin - Madison
 
 ### How to reach me 🌎
 
 🔗 [LinkedIn](https://linkedin.com/in/karanaditya993) <br>
-🚀 [Site](https://karanaditya.com) <br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanaditya993&layout=compact&theme=prussian&hide_border=true)
 
