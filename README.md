@@ -41,9 +41,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
 
 </div>
-<div align="center" style="display: inline-block;"><br>
-    <img src="https://media.giphy.com/media/lCbSAbRrFEfkY/giphy.gif">
-</div>
 <br>
 
 <div align="center">
